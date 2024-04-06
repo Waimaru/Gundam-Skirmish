@@ -1,0 +1,34 @@
+{
+  "Mobile suits": [
+    {
+      "universe": "Universal Century",
+      "mobile": "RX-78",
+      "group": "Federation",
+      "base points": "220"
+    },
+    {
+      "universe": "Universal Century",
+      "mobile": "RX-69",
+      "group": "Federation",
+      "base points": "420"
+    },
+    {
+      "universe": "Universal Century",
+      "mobile": "Zaku II",
+      "group": "Zeon",
+      "base points": "100"
+    },
+    {
+      "universe": "IBO",
+      "mobile": "Barbatos 4th form",
+      "group": "Tekkaden",
+      "base points": "220"
+    },
+    {
+      "universe": "00",
+      "mobile": "Exia",
+      "group": "Celestial Being",
+      "base points": "220"
+    }
+  ]
+}
