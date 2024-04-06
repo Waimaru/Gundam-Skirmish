@@ -111,7 +111,6 @@ const RightBar = () => {
           label="Group"
           value={group}
           onChange={handleGroupChange}
-          helperText="Choose group"
         >
           <MenuItem value="" disabled>Select Military Group</MenuItem>
           {groups.map((grp) => (
@@ -125,7 +124,6 @@ const RightBar = () => {
           label="Mobile suit"
           value={mobile}
           onChange={handleMobileChange}
-          helperText="Choose mobile suit"
         >
           <MenuItem value="" disabled>Select Mobile Suit</MenuItem>
           {mobiles.map((mob) => (
